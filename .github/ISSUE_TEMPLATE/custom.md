@@ -7,15 +7,18 @@ assignees: ''
 
 ---
 
-**As a** customer  
- **I need** the ability to like a product in the catalog
- **So that** I can express my preference and potentially influence product popularity  
-   
- ### Details and Assumptions
- * [document what you know]
-   
- ### Acceptance Criteria  
-   
+**Titre :** [Titre clair et concis de la user story]
+
+**Description :**
+En tant que [type d'utilisateur], je veux [action] afin de [résultat].
+
+**Acceptions :**
+* Critère 1 : [Description détaillée du critère d'acceptation]
+* Critère 2 : [Description détaillée du critère d'acceptation]
+* ...
+
+**Étiquettes :** [liste d'étiquettes pertinentes, par exemple : `enhancement`, `frontend`, `backend`]
+
  ```gherkin
  Given I am on the product details page,
 When I click on the 'Like' button,
