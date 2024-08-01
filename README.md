@@ -13,10 +13,10 @@ Ce projet a pour objectif de créer une page d'inscription simple en PHP. Les ut
 * PHP
 * HTML
 * CSS
-* Base de données (MySQL, PostgreSQL, etc.)
+* Base de données MySQL
 
 ## Installation
-1. Cloner le repository : `git clone https://github.com/votre_nom_utilisateur/votre_projet.git`
+1. Cloner le repository : `git clone https://github.com/Bilgassim/InscriptionPHP.git`
 2. Créer une base de données et un utilisateur
 3. Configurer les informations de connexion à la base de données dans le fichier de configuration
 4. Lancer un serveur web local (ex : Apache, Nginx)
@@ -25,8 +25,6 @@ Ce projet a pour objectif de créer une page d'inscription simple en PHP. Les ut
 Accéder à la page d'inscription via votre navigateur.
 
 ## Contributeurs
-* Votre nom (et éventuellement d'autres contributeurs)
+* Mohamed Boulkassoum Boulkassoum
 
-## License
-[Indiquez la licence choisie, par exemple MIT, GPL, etc.]
 
